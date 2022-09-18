@@ -7,7 +7,7 @@
 
 - 👯 I’m looking for software engineering roles.
  
-- 📫 How to reach me **sarahsolarin56@gmail.com**
+- 📫 Reach me at **sarahsolarin56@gmail.com**
 
 <p align="left"> <a href="https://twitter.com/sarah_tuer" target="blank"><img src="https://img.shields.io/twitter/follow/sarah_tuer?logo=twitter&style=for-the-badge" alt="sarah_tuer" /></a> </p>
 
