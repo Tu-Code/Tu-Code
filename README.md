@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
-<h3 align="center">A Computer Science major with a love for code, problem solving, mathematics, robotics and building software.</h3>
+<h3 align="center">A Computer Science major with a love for code, problem solving, mathematics and building software.</h3>
 
 - 🌱 I’m currently looking into **Data Science & Machine Learning**
 
